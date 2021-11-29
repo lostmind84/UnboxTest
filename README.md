@@ -1,3 +1,1 @@
 ## SimpleStorage test
-
-fds ds
